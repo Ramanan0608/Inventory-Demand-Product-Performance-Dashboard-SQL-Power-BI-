@@ -1,4 +1,5 @@
 **Inventory Demand & Product Performance Dashboard (SQL & Power BI)**
+
 **Dashboard Link: https://app.powerbi.com/groups/me/reports/8ebc7360-77dd-4516-86e0-2f23aac26a1e?ctid=1ca90c9a-c0b5-4503-a35a-726a4f55924a&pbi_source=linkShare**
 
 The objective of this dashboard is to help the business understand product demand patterns, availability issues, and pricing impact. By analyzing order trends, stock availability, and product-level demand, the organization can identify inventory shortages, high-demand items, and optimize supply chain planning.
